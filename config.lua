@@ -5,7 +5,7 @@ Config.Locale       = 'fr'
 Config.Plates = {
 	taxi = "TAXI",
 	fisherman = "FISH",
-	cop = "LSPD",
+	cop = "LEPD",
 	ambulance = "EMS",
 	depanneur = "MECA",
 	fuel = "FUEL",
@@ -14,8 +14,12 @@ Config.Plates = {
 	reporter = "JOUR",
 	slaughterer = "ABAT",
 	textil = "COUT"
-}
-
+        feier = ''commnda
+        mechnika = '' sceff
+	cardiler = '' sceff
+	dev = '' leitung 
+	admin = '' leitung 
+	
 Config.Jobs = {}
 
 Config.PublicZones = {
