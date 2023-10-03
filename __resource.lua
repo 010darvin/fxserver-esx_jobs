@@ -31,9 +31,16 @@ client_scripts {
 	'jobs/mafia.lua ',weitlist
 	'jobs/pziiaria.lua ',weitlist 
 	'jobs/us.marschlas.lua ',weitlist
-	
-
-
+	'jobs/Homland police.lua ',weilist
+	'jobs/Makler.lua ',weilist
+	'jobs/grupe6 scyrety',weitlist
+        'jobs/dev.lua ',weilist 
+	'jobs/bäenker.lua ',weitlist
+	'jobs/militer.lua ',weitlist
+        'jobs/lcn.lua ',weitlist 
+	'jobs/trukFaer.lua ',
+        'jobs/bus faer.lua ',
+        
 	
 	'client/esx_jobs_cl.lua'
 }       
