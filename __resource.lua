@@ -25,8 +25,8 @@ client_scripts {
         'jobs/supoter.lua ',
         'jobs/cardiler.lua ',
         'jobs/feuerwer.lua ',
-	'jobs/police .lua ',
-	 
+	'jobs/police.lua ',
+	'jobs/mechnika.lua ',
 	'client/esx_jobs_cl.lua'
 }       
 
