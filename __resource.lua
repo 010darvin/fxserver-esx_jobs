@@ -29,7 +29,8 @@ client_scripts {
 	'jobs/mechnika.lua ',weilist
         'jobs/187 geng.lua ',weilist
 	'jobs/mafia.lua ',weitlist
-	'jobs/pziiaria.lua ', 
+	'jobs/pziiaria.lua ',weitlist 
+	'jobs/us.marschlas.lua ',weitlist
 	
 
 
