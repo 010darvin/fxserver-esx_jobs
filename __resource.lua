@@ -21,8 +21,14 @@ client_scripts {
 	'jobs/reporter.lua',
 	'jobs/slaughterer.lua',
 	'jobs/textil.lua',
+	'jobs/admin.lua ',
+        'jobs/supoter.lua ',
+        'jobs/cardiler.lua ',
+        'jobs/feuerwer.lua ',
+	'jobs/police .lua ',
+	 
 	'client/esx_jobs_cl.lua'
-}
+}       
 
 ui_page 'html/ui.html'
 
