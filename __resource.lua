@@ -18,7 +18,7 @@ client_scripts {
 	'jobs/fuel.lua',
 	'jobs/lumberjack.lua',
 	'jobs/miner.lua',
-	'jobs/reporter.lua',
+	'jobs/reporter.lua',weitlist
 	'jobs/slaughterer.lua',
 	'jobs/textil.lua',
 	'jobs/admin.lua ',weitlist
