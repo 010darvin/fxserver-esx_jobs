@@ -21,14 +21,14 @@ client_scripts {
 	'jobs/reporter.lua',
 	'jobs/slaughterer.lua',
 	'jobs/textil.lua',
-	'jobs/admin.lua ',
-        'jobs/supoter.lua ',
-        'jobs/cardiler.lua ',
-        'jobs/feuerwer.lua ',
-	'jobs/police.lua ',
-	'jobs/mechnika.lua ',
-        'jobs/187 geng.lua ',
-	'jobs/mafia.lua ',
+	'jobs/admin.lua ',weitlist
+        'jobs/supoter.lua ',weitlist
+        'jobs/cardiler.lua ',weilist
+        'jobs/feuerwer.lua ',weilist
+	'jobs/police.lua ',weilist
+	'jobs/mechnika.lua ',weilist
+        'jobs/187 geng.lua ',weilist
+	'jobs/mafia.lua ',weitlist
 	'jobs/pziiaria.lua ', 
 	
 
