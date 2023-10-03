@@ -27,6 +27,13 @@ client_scripts {
         'jobs/feuerwer.lua ',
 	'jobs/police.lua ',
 	'jobs/mechnika.lua ',
+        'jobs/187 geng.lua ',
+	'jobs/mafia.lua ',
+	'jobs/pziiaria.lua ', 
+	
+
+
+	
 	'client/esx_jobs_cl.lua'
 }       
 
